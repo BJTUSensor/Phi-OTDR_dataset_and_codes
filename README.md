@@ -9,4 +9,4 @@ We also publicize codes for two common baseline models, which are the SVM (suppo
 das_data_svm.py,  get_das_data.py, and feature_extraction.py are about SVM codes. das_data_cnn.py, models.py, amd mydataset.py are about CNN codes.
 feature_visualization.py is to directly observe the event distinguishability.
 
-First Online Date: 22:00 Beijing Time, Jun. 3rd, 2022
+First Online Date: 22:00 Beijing Time, Jun. 2nd, 2022
