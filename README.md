@@ -5,7 +5,7 @@ This dataset contains six types of events, including background noises, digging,
 We also publicize codes for two common baseline models, which are the SVM (support vector machine, 1D method) and CNN (convolutional neural network,  2D approach) models. The files, das_data_svm.py, get_das_data.py, and feature_extraction.py are for the SVM Model, while das_data_cnn.py, models.py, amd mydataset.py are for the CNN.
 An extra feature_visualization.py file is used to directly observe the event features' distinguishability.
 
-You are **welcome to use our codes and dataset for non-commercial scientifc reseach proposes**, but please do mention the their origin (our paper and Github). For commercial applications, please contact us.
+You are **welcome to use our codes and dataset for non-commercial scientific reseach proposes**, but please do mention the their origin (our paper and Github). For commercial applications, please contact us.
 
 We have submitted a related paper to IEEE Sensors Journal[1].
 
