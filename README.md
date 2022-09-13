@@ -14,6 +14,13 @@ We have submitted a related paper to Elsevier's Optics & Laser Technology[1].
 First Online Date: 22:00 Beijing Time, Jun. 2nd, 2022
 
 
-------update: Sept-10-2022
+----------update: Sept-13-2022--------------
+
 This dataset contains six types of Phi-OTDR events, including background noises (3094 samples, Fig (a)), digging (2512 samples, Fig (b)), knocking (2530 samples, Fig (c)), shaking (2298, Fig (d)), watering (2728, Fig (e)) and walking (2450, Fig (f)), in a total of 15,612 samples. And the typical differentiated samples (size: 12(space)*9999(time)) are demonstrated in the figure.
 
+![text](https://github.com/BJTUSensor/Phi-OTDR_dataset_and_codes/blob/main/figure.png?raw=true)
+Fig. Time-space figure of typical samples of different events
+
+To ensure the robustness of the dataset, two segments of fibers (5.1 km and 10.1 km) are used for collecting the above mentioned events at their tail parts (from 5.0 to 5.05 km and from 10.0 to 10.05 km) by ten members of our research team at different time. In order to facilitate subsequent data processing, we clip the collected data and only the points around the disturbance position (mostly at the center) are selected to make the samples. To be more specific, each sample of each event is composed of 10000 points in time domain (0.8 s for 5 km, and 1.25 s for 10 km), and 12 adjacent spatial points (10 m/point) in space domain.
+
+The raw data is divided into training set and test set with a ratio of 8:2. And the label files for the samples are also provided within the dataset files. The format of the samples in the dataset is .mat file.
