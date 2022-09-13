@@ -12,3 +12,8 @@ We have submitted a related paper to Elsevier's Optics & Laser Technology[1].
 [1]. Xiaomin Cao, Yunsheng Su, Zhiyan Jin, Kuanglu YU, An Open Dataset of Ф-OTDR Events with Two Classification Models as Baselines, submitted.
 
 First Online Date: 22:00 Beijing Time, Jun. 2nd, 2022
+
+
+------update: Sept-10-2022
+This dataset contains six types of Phi-OTDR events, including background noises (3094 samples, Fig (a)), digging (2512 samples, Fig (b)), knocking (2530 samples, Fig (c)), shaking (2298, Fig (d)), watering (2728, Fig (e)) and walking (2450, Fig (f)), in a total of 15,612 samples. And the typical differentiated samples (size: 12(space)*9999(time)) are demonstrated in the figure.
+
