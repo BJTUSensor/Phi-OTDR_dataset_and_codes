@@ -9,7 +9,7 @@ You are **welcome to use our codes and dataset for non-commercial scientific res
 
 We have submitted a related paper to Elsevier's Optics & Laser Technology[1].
 
-[1]. Xiaomin Cao, Yunsheng Su, Zhiyan Jin, Kuanglu YU, An Open Dataset of Ф-OTDR Events with Two Classification Models as Baselines, submitted.
+[1]. Cao, X., Su, Y., Jin, Z., & Yu, K. (2023). An open dataset of φ-OTDR events with two classification models as baselines. _Results in Optics_, 100372.
 
 First Online Date: 22:00 Beijing Time, Jun. 2nd, 2022
 
