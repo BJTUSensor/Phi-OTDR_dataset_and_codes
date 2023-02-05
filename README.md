@@ -7,7 +7,7 @@ An extra feature_visualization.py file is used to directly observe the event fea
 
 You are **welcome to use our codes and dataset for non-commercial scientific reseach proposes**, but please do mention the their origin (our paper and Github). For commercial applications, please contact us.
 
-We have submitted a related paper to Elsevier's Optics & Laser Technology[1].
+See more details [1].
 
 [1]. Cao, X., Su, Y., Jin, Z., & Yu, K. (2023). An open dataset of φ-OTDR events with two classification models as baselines. _Results in Optics_, 100372.
 
